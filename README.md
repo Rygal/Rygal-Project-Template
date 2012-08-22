@@ -1,8 +1,6 @@
-Rygal-Sublime-Project
+Rygal-Project-Template
 -----------------------------
 
 Clone this project from Github with:
 
-    git clone https://github.com/Rygal/Rygal-Sublime-Project.git
-
-and include this to Sublime with "Project -> Add folder to project...".
+    git clone https://github.com/Rygal/Rygal-Project-Template.git
